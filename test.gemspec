@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name    = 'dxruby'
-  gem.version = 'x.x.x'
+  gem.version = '1.4.1'
   gem.date    = Time.now.strftime("%Y-%m-%d")
 
   gem.summary = "DNAnexus Platform API bindings for Ruby"
